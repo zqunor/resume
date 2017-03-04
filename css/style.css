@@ -202,7 +202,7 @@ color: #666;
 } 
 
 .section1 .icon-group .user ul {
-	list-style: none;
+    list-style: none;
     text-align: center;
     background: rgb(119, 119, 119);
     border-radius: 20px;
@@ -228,7 +228,6 @@ color: #666;
 	margin: 5px;
 	font-size: 12px;
 	line-height: 14px;
-	display: inline-block;
 }
 
 .section1 .icon-group .user p {
